@@ -7,12 +7,12 @@
 - [在线报告](https://wwweiweihank.github.io/play_record/)
 - [直接阅读17段对话](https://wwweiweihank.github.io/play_record/#highlights)
 - [片段文字稿](https://wwweiweihank.github.io/play_record/STILL-HUMAN-代表性对话片段-20261018.txt)
-- [本地包](https://wwweiweihank.github.io/play_record/STILL-HUMAN-play-record-20261023.zip)：完整解压后打开index.html或打开报告.cmd。无需安装程序、启动服务或联网。
+- [本地包](https://wwweiweihank.github.io/play_record/STILL-HUMAN-play-record-20261025.zip)：完整解压后打开index.html或打开报告.cmd。无需安装程序、启动服务或联网。
 - 使用启用JavaScript的Edge、Chrome等浏览器；不要在禁用脚本的文件预览器中打开。
 
 ## 本次数据
 
-2026-10-23 23:51:49通过SSH只读导出，共6250条云端事件，正式6093、测试157。逐条比对上一版，没有新增、删除或内容变更。正式记录为29个匿名安装、120个已观察局次、4566条对白、222次实际处决（155伪人／67真人）；客户端事件截止仍为2026-10-18 20:29:21北京时间。文件更新时间代表本次拉取，并不代表有新游玩事件。本机开发日志不包含在公开包中。
+2026-10-25 11:25:19通过SSH只读导出，共6250条云端事件，正式6093、测试157。逐条比对上一版，没有新增、删除或内容变更。正式记录为29个匿名安装、120个已观察局次、4566条对白、222次实际处决（155伪人／67真人）；客户端事件截止仍为2026-10-18 20:29:21北京时间。文件更新时间代表本次拉取，并不代表有新游玩事件。本机开发日志不包含在公开包中。
 
 ## 片段选读
 
